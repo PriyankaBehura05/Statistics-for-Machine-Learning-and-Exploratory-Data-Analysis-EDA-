@@ -339,4 +339,3 @@ Through this project, I learned:
 
 **Priyanka Behura**
 
-Aspiring AI/ML Engineer passionate about Data Science, Machine Learning, Deep Learning, Generative AI, and Large Language Models.
